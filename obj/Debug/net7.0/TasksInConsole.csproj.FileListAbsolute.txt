@@ -1,0 +1,15 @@
+C:\Users\JakubMokos\source\repos\TasksInConsole\bin\Debug\net7.0\TasksInConsole.exe
+C:\Users\JakubMokos\source\repos\TasksInConsole\bin\Debug\net7.0\TasksInConsole.deps.json
+C:\Users\JakubMokos\source\repos\TasksInConsole\bin\Debug\net7.0\TasksInConsole.runtimeconfig.json
+C:\Users\JakubMokos\source\repos\TasksInConsole\bin\Debug\net7.0\TasksInConsole.dll
+C:\Users\JakubMokos\source\repos\TasksInConsole\bin\Debug\net7.0\TasksInConsole.pdb
+C:\Users\JakubMokos\source\repos\TasksInConsole\obj\Debug\net7.0\TasksInConsole.csproj.AssemblyReference.cache
+C:\Users\JakubMokos\source\repos\TasksInConsole\obj\Debug\net7.0\TasksInConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JakubMokos\source\repos\TasksInConsole\obj\Debug\net7.0\TasksInConsole.AssemblyInfoInputs.cache
+C:\Users\JakubMokos\source\repos\TasksInConsole\obj\Debug\net7.0\TasksInConsole.AssemblyInfo.cs
+C:\Users\JakubMokos\source\repos\TasksInConsole\obj\Debug\net7.0\TasksInConsole.csproj.CoreCompileInputs.cache
+C:\Users\JakubMokos\source\repos\TasksInConsole\obj\Debug\net7.0\TasksInConsole.dll
+C:\Users\JakubMokos\source\repos\TasksInConsole\obj\Debug\net7.0\refint\TasksInConsole.dll
+C:\Users\JakubMokos\source\repos\TasksInConsole\obj\Debug\net7.0\TasksInConsole.pdb
+C:\Users\JakubMokos\source\repos\TasksInConsole\obj\Debug\net7.0\TasksInConsole.genruntimeconfig.cache
+C:\Users\JakubMokos\source\repos\TasksInConsole\obj\Debug\net7.0\ref\TasksInConsole.dll
